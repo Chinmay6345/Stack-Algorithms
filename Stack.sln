@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1401
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack as array", "Stack as array\Stack as array.csproj", "{BDA0121F-C4AF-4EE4-A46D-47617CE4317C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack as Linked List", "Stack as Linked List\Stack as Linked List.csproj", "{A3736BE4-B7E6-4EE5-A1D1-45D39D549A7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BDA0121F-C4AF-4EE4-A46D-47617CE4317C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDA0121F-C4AF-4EE4-A46D-47617CE4317C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDA0121F-C4AF-4EE4-A46D-47617CE4317C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3736BE4-B7E6-4EE5-A1D1-45D39D549A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3736BE4-B7E6-4EE5-A1D1-45D39D549A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3736BE4-B7E6-4EE5-A1D1-45D39D549A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3736BE4-B7E6-4EE5-A1D1-45D39D549A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
