@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack as Linked List", "Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets", "Balanced Brackets\Balanced Brackets.csproj", "{DBADFED6-765A-4DE8-858F-7A5AB757C35D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two stacks in array", "Two stacks in array\Two stacks in array.csproj", "{5BABC8B8-746F-484B-B5A5-D895941E3811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DBADFED6-765A-4DE8-858F-7A5AB757C35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBADFED6-765A-4DE8-858F-7A5AB757C35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBADFED6-765A-4DE8-858F-7A5AB757C35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BABC8B8-746F-484B-B5A5-D895941E3811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BABC8B8-746F-484B-B5A5-D895941E3811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BABC8B8-746F-484B-B5A5-D895941E3811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BABC8B8-746F-484B-B5A5-D895941E3811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
