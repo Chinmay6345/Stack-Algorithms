@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two stacks in array", "Two 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K stacks in array", "K stacks in array\K stacks in array.csproj", "{0CCBD15A-605D-48C6-B27B-122E440C47EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock span problem", "Stock span problem\Stock span problem.csproj", "{97386E08-E51D-4207-8D0C-4CBC59AEEDF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0CCBD15A-605D-48C6-B27B-122E440C47EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CCBD15A-605D-48C6-B27B-122E440C47EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CCBD15A-605D-48C6-B27B-122E440C47EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97386E08-E51D-4207-8D0C-4CBC59AEEDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97386E08-E51D-4207-8D0C-4CBC59AEEDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97386E08-E51D-4207-8D0C-4CBC59AEEDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97386E08-E51D-4207-8D0C-4CBC59AEEDF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
