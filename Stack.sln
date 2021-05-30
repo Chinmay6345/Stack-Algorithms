@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock span problem", "Stock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Previous greater element", "Previous greater element\Previous greater element.csproj", "{AA40FE44-8B97-4C0B-9932-8163123CADDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest area in a rectangle", "Largest area in a rectangle\Largest area in a rectangle.csproj", "{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AA40FE44-8B97-4C0B-9932-8163123CADDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA40FE44-8B97-4C0B-9932-8163123CADDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA40FE44-8B97-4C0B-9932-8163123CADDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
