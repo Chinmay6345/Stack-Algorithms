@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 
+//https://leetcode.com/problems/largest-rectangle-in-histogram/
+
 namespace Largest_area_in_a_rectangle
 {
     public static class AppHelper
