@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
+//https://leetcode.com/problems/min-stack/
 namespace _155_MinStack
 {
     public class MinStack
@@ -28,7 +30,6 @@ namespace _155_MinStack
             {
                 axs.Push(val);
             }
-
         }
 
         public void Pop()
