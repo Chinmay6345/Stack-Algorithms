@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Previous greater element", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest area in a rectangle", "Largest area in a rectangle\Largest area in a rectangle.csproj", "{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCode", "LeetCode", "{60F0F7B4-0940-4FB9-A22B-C6D79FF942C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{C659422F-79D3-4C58-BC5E-1560ADD51D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155-MinStack", "155-MinStack\155-MinStack.csproj", "{5EF04476-E18D-4622-BC88-7F85BC3E5DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,9 +63,17 @@ Global
 		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426B29B6-B2D4-4A6B-93B6-4C37E9D8F0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF04476-E18D-4622-BC88-7F85BC3E5DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF04476-E18D-4622-BC88-7F85BC3E5DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF04476-E18D-4622-BC88-7F85BC3E5DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF04476-E18D-4622-BC88-7F85BC3E5DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C659422F-79D3-4C58-BC5E-1560ADD51D07} = {60F0F7B4-0940-4FB9-A22B-C6D79FF942C0}
+		{5EF04476-E18D-4622-BC88-7F85BC3E5DE6} = {C659422F-79D3-4C58-BC5E-1560ADD51D07}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E92C8AB-E2BA-4B9A-BC12-C5FCE743D740}
