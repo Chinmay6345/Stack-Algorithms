@@ -9,7 +9,6 @@ namespace Maximal_Rectangle
         {
             Int32 maxArea = 0;
             Stack<Int32> stack = new Stack<Int32>();
-            stack.e
             buildings.Add(0);
             List<Int32> ext = new List<Int32>(buildings);
             for (Int32 i = 0; i < ext.Count; i++)
