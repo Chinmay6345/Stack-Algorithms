@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Balanced_Brackets
@@ -38,6 +39,7 @@ namespace Balanced_Brackets
         static void Main(string[] args)
         {
             String str = "([])(){}(())()()";
+
             Console.WriteLine(AppHelper.IsBalanced(str));
             Console.ReadLine();
         }

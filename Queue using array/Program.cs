@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Queue_using_array
 {
@@ -53,6 +54,9 @@ namespace Queue_using_array
     {
         static void Main(string[] args)
         {
+            StringBuilder builder = new StringBuilder("abc");
+            builder.Replace("b", "");
+            var s = builder.ToString();
             Console.ReadLine();
         }
     }
